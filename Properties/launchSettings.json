@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "stegoprint": {
+      "commandName": "Project",
+      "commandLineArgs": "extract -k \"C:\\dev\\working\\stegano\\mylib\\keyfile.txt\" -i \"C:\\dev\\working\\stegano\\mylib\\out.wav\""
+    }
+  }
+}

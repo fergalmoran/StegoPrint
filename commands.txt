@@ -1,0 +1,2 @@
+add -m "ArgleBargle" -k "C:\dev\working\stegano\mylib\keyfile.txt" -i "C:\dev\working\stegano\mylib\candidate.wav" -o "C:\dev\working\stegano\mylib\out.wav"
+extract -k "C:\dev\working\stegano\mylib\keyfile.txt" -i "C:\dev\working\stegano\mylib\out.wav"
